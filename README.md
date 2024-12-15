@@ -10,7 +10,7 @@ Flask Task Management API — это RESTful API, предназначенное
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Beda-Daniil/Python/tree/main
    ```
 2. Установите зависимости:
    ```bash
